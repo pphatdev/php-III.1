@@ -1,0 +1,7 @@
+<?php
+    $string1 = "Hello";
+    $string2 = "PHP";
+    $string3 = $string1 . " " . $string2;
+    print $string3;
+
+?>
