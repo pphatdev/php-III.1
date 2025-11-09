@@ -28,9 +28,18 @@ This project is practicing the CRUD operations using PHP and MySQL database. It 
 ```sh
 # Check Node.js version
 node -v
+# install  npm
+npm install
 
 # Start development style for CSS
 npm run dev
+
+
+# Install Composer
+composer install
+
+
+# Update .env config
 
 # Start PHP built-in server
 php -S localhost:8000
